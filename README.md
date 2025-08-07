@@ -1,4 +1,8 @@
-# bss2023
+# bss
+
+2025 0807 update to BSS2025
+
+2023 someday 
 workshop website for bss2023
 
 The website is exported from google site. There is a tool that can clean the google site pages:
