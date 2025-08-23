@@ -1,5 +1,7 @@
 # bss
 
+2025 0823 using playwrite to mirror the web
+
 2025 0807 update to BSS2025
 
 2023 someday 
